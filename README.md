@@ -14,5 +14,5 @@
 
 ## 数据分析
 ### 绘图工具类
-* matplotlib
+* matplotlib python的可视化工具之一
 * d3.js 可为Web应用构建交互式图像
