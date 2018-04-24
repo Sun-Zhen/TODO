@@ -22,5 +22,5 @@
 ## 开源代码
 ### 存储
 * redis
-   * 参考大神博客
-     * https://www.cnblogs.com/aixiaomei/p/6311633.html
+  * 参考大神博客
+     - https://www.cnblogs.com/aixiaomei/p/6311633.html
