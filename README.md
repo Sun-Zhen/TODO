@@ -26,3 +26,7 @@
 * redis
   * 参考大神博客
      - https://www.cnblogs.com/aixiaomei/p/6311633.html
+
+## 操作系统
+### 文件系统
+* 有趣的问题：一个文件夹可以最多包含多少文件？
