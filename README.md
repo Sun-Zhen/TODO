@@ -6,6 +6,8 @@
 ## 编程语言
 ### C++
 * STL
+* Autotools
+* cmake
 
 
 ## 书籍
