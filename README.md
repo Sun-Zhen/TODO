@@ -8,6 +8,7 @@
 * STL
 * Autotools
 * cmake
+* APR
 
 
 ## 书籍
@@ -28,6 +29,7 @@
 * redis
   * 参考大神博客
      - https://www.cnblogs.com/aixiaomei/p/6311633.html
+* unimrcp
 
 ## 操作系统
 ### 文件系统
