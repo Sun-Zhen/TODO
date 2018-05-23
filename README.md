@@ -14,6 +14,8 @@
 * spring
   * spring boot
     * 修改一次配置文件需要重新打包么
+      * Spring Cloud Config
+      * Spring Boot Admin
 
 
 ## 书籍
