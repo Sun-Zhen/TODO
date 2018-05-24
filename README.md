@@ -12,6 +12,7 @@
 
 ### Java
 * synchronized
+* try catch finally try 里面 return
 * spring
   * spring boot
     * 修改一次配置文件需要重新打包么
