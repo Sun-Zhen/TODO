@@ -11,6 +11,7 @@
 * APR
 
 ### Java
+* synchronized
 * spring
   * spring boot
     * 修改一次配置文件需要重新打包么
