@@ -17,6 +17,9 @@
       * Spring Cloud Config
       * Spring Boot Admin
 
+### Python
+* bpython(比较靓的python交互)
+
 
 ## 书籍
 ### 算法类
