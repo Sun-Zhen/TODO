@@ -15,6 +15,7 @@
 * lombak
   * https://projectlombok.org/
 * ConcurrentMap
+* LinkedList
 * try catch finally try 里面 return
 * spring
   * spring boot
