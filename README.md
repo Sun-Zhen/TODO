@@ -12,6 +12,8 @@
 
 ### Java
 * synchronized
+* Mybatis 动态数据源切换,多数据源
+* twitter的snowflake
 * lombak
   * https://projectlombok.org/
 * ConcurrentMap
