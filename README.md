@@ -23,6 +23,7 @@
 * JMX(Java Management Extensions)
 * spring
   * spring boot
+  * hibernate-validator
     * 修改一次配置文件需要重新打包么
       * Spring Cloud Config
       * Spring Boot Admin
