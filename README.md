@@ -15,6 +15,8 @@
 * synchronized
 * Mybatis 动态数据源切换,多数据源
 * twitter的snowflake
+* Jedis
+  * 存取Java对象的方式
 * lombak
   * https://projectlombok.org/
 * ConcurrentMap
