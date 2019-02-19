@@ -36,6 +36,7 @@
 #### Python爬虫
 * 上传爬取豆瓣读书的代码
 * 研究自建高匿IP代理池
+  * https://cloud.tencent.com/developer/news/343582
 * 研究haipproxy
 
 
