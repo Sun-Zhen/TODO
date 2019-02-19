@@ -33,6 +33,11 @@
 ### Python
 * bpython(比较靓的python交互)
 
+#### Python爬虫
+* 上传爬取豆瓣读书的代码
+* 研究自建高匿IP代理池
+* 研究haipproxy
+
 
 ## 书籍
 ### 算法类
